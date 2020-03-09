@@ -125,7 +125,7 @@ export default {
     bottom: 0;
     left: 0;
     background-color: #fff;
-    transition: all .5s;
+    transition: all .3s linear;
   }
 
   &__content {

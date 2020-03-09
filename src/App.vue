@@ -87,13 +87,13 @@ html, body {
 
   &__content {
     padding: 20px;
-    transition: all .5s;
+    transition: all .3s linear;
     background-color: #fff;
   }
 }
 
 .shift-enter-active, .shift-leave-active {
-  transition: all .5s;
+  transition: all .3s linear;
 }
 
 .shift-enter, .shift-leave-to {
